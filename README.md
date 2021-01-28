@@ -3,4 +3,8 @@
 
 Documentazione
 
-[https://lokeshdhakar.com/projects/lightbox2/](Docs di Lightbox)
+(https://lokeshdhakar.com/projects/lightbox2/)[Docs di Lightbox]
+
+versioni
+
+https://github.com/lokesh/lightbox2/releases
